@@ -37,3 +37,4 @@ Cost: 400*[(1-α)*510000+β*490]
 
 Revenue: 1000*490000+1000*(1-α)*510000*0.5
 # The Tree
+![alt text](https://github.com/daweijia/Profit-Prediction-using-Decision-Tree-and-ROC/blob/master/decision%20tree.pdf)
